@@ -1,4 +1,4 @@
-# Mi Profile:
+# My Profile:
 Hi, Im Erick Avendaño<br>Full-stack developer experienced in Spring Boot (Java) and .NET for backend, with MySQL and SQL Server. I build REST APIs and microservices, and use React + TypeScript for frontend. Also experienced in Kotlin (Android) and agile teamwork (Scrum).
 
 
