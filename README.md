@@ -4,7 +4,7 @@
 🚀 Experience in backend (Spring Boot & .NET), frontend (React + TypeScript), and mobile (Kotlin & Swift).  
 ⚡ Passionate about APIs, microservices, and agile development (Scrum).
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00e5c0?style=for-the-badge&logoColor=white)](https://portafolio-ten-iota-56.vercel.app/)
+<a href="https://portafolio-ten-iota-56.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00e5c0?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
 
 ---
 
@@ -57,6 +57,6 @@
 
 ## 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-avenda%C3%B1o-iglesias-351704337/)
-[![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erickavendao014@gmail.com)
-[![Portfolio](https://img.shields.io/badge/portfolio-00e5c0?style=for-the-badge&logo=vercel&logoColor=black)](https://portafolio-ten-iota-56.vercel.app/)
+<a href="https://www.linkedin.com/in/erick-avenda%C3%B1o-iglesias-351704337/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:erickavendao014@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://portafolio-ten-iota-56.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/portfolio-00e5c0?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/></a>
